@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri May 12 16:24:10 2023
+# Process ID: 11736
+# Current directory: C:/fs/lab3_10/lab3_10.runs/synth_1
+# Command line: vivado.exe -log arbiter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source arbiter.tcl
+# Log file: C:/fs/lab3_10/lab3_10.runs/synth_1/arbiter.vds
+# Journal file: C:/fs/lab3_10/lab3_10.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source arbiter.tcl -notrace
